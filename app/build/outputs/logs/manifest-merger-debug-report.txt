@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\26c7cfdaf8493c20ee6c141bfd0b7a7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\84dea8c679feedb55c3e233bb317ff9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\40f86d32fbb83d204fa7d90556922fbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\f696bfb76c6e2b845301e4cb9b255606\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d70558cd3dad1fd74ebff7a100e17fc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a9916951ea8978403e56c22d9e18c04c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9c71045595a1be575c19bc2c1ff3e0ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b4fa5a427801d7412171cc62d6773ee8\AndroidManifest.xml:17:1-24:12
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+	package
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:11-55
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:2:1-18:12
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:5:3-16:17
+	android:label
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:7:5-37
+	android:icon
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:6:5-39
+	android:theme
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:8:5-36
+activity#com.sqisland.espresso.toolbartitle.MainActivity
+ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:9:5-15:16
+	android:name
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:9:15-43
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:10:7-14:23
+action#android.intent.action.MAIN
+ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:11:9-60
+	android:name
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:11:17-58
+category#android.intent.category.LAUNCHER
+ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:13:9-68
+	android:name
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml:13:19-66
+uses-sdk
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\26c7cfdaf8493c20ee6c141bfd0b7a7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\26c7cfdaf8493c20ee6c141bfd0b7a7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\84dea8c679feedb55c3e233bb317ff9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\84dea8c679feedb55c3e233bb317ff9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\40f86d32fbb83d204fa7d90556922fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\40f86d32fbb83d204fa7d90556922fbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\f696bfb76c6e2b845301e4cb9b255606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\f696bfb76c6e2b845301e4cb9b255606\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d70558cd3dad1fd74ebff7a100e17fc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\d70558cd3dad1fd74ebff7a100e17fc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a9916951ea8978403e56c22d9e18c04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\a9916951ea8978403e56c22d9e18c04c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9c71045595a1be575c19bc2c1ff3e0ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\9c71045595a1be575c19bc2c1ff3e0ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b4fa5a427801d7412171cc62d6773ee8\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\mcann\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\b4fa5a427801d7412171cc62d6773ee8\AndroidManifest.xml:20:5-22:41
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		ADDED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Desktop\Ex_Files_Android_Espresso_EssT\Ex_Files_Android_Espresso_EssT\Exercise Files\Ch04\04_01\Start\app\src\main\AndroidManifest.xml

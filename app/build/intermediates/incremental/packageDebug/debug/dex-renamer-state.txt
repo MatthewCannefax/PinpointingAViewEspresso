@@ -1,0 +1,4 @@
+#Sat Aug 03 12:36:58 CDT 2019
+base.0=E\:\\Desktop\\Ex_Files_Android_Espresso_EssT\\Ex_Files_Android_Espresso_EssT\\Exercise Files\\Ch04\\04_01\\Start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
