@@ -27,6 +27,7 @@ class MainActivityTest{
                 .check(matches(withToolbarTitle(title)))
     }
 
+    //custom matcher
     private fun withToolbarTitle(expectedTitle: CharSequence): Matcher<View>{
         return object : BoundedMatcher<View, Toolbar>(Toolbar::class.java){
             override fun describeTo(description: Description?) {
